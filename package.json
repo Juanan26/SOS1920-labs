@@ -1,0 +1,20 @@
+{
+  "name": "sos1920-l04",
+  "version": "0.0.0",
+  "description": "Code of l04",
+  "main": "index.js",
+  "scripts": {
+	  "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanan26/SOS1920-labs.git"
+  },
+  "author": "Juanan26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanan26/SOS1920-labs/issues"
+  },
+  "homepage": "https://github.com/Juanan26/SOS1920-labs#readme"
+}
